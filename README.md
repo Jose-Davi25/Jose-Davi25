@@ -11,7 +11,7 @@ Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Estácio de Ca
         title="Link do meu LinkedIn" 
         src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin&logoColor=white&labelColor=0A66C2"
         />
-    /a>
+    </a>
     <a href=https://github.com/repos>
         <img 
             alt="Total de estrelas" 
