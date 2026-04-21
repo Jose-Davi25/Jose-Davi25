@@ -5,7 +5,7 @@
 Graduado em Análise e Desenvolvimento de Sistemas pela Faculdade Estácio de Castanhal (2025.1) e graduando em Engenharia de Software pela Universidade do Estado do Pará (UEPA), atualmente no 6 semestre. Durante a graduação na Estácio, integrei a Liga Acadêmica de Robótica Aplicada (LARA), onde desenvolvemos um projeto de IoT voltado à irrigação automática, com resumo publicado em evento científico. Também atuei como ministrante de um minicurso de informática e participei do Laboratório de Transformação Digital (LTD) da instituição. Além disso, desenvolvi e colaborei em diversos projetos de extensão, disponíveis em meu repositório no GitHub "[Jose-Davi25](https://github.com/Jose-Davi25)". Tenho afinidade com desenvolvimento backend, com experiência em PHP, SQL, Python, Kotlin e Java. Interesso-me por projetos voltados à criação de sistemas eficientes e escaláveis, com foco na aplicação de boas práticas de desenvolvimento e metodologias ágeis. Busco oportunidades para consolidar meus conhecimentos, contribuir com soluções inovadoras e evoluir profissionalmente na área de tecnologia.
 
 <p align="left">
-    <a href="https://github.com/[[Jose-Davi25?tab=repositories&sort=stargazers](https://github.com/Jose-Davi25](https://github.com/repos))">
+    <a href=https://github.com/repos>
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
